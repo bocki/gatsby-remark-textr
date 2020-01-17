@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-remark-textr",
+  "version": "1.0.0",
+  "description": "Gatsby plugin to process text with Textr in Markdown processed by Remark",
+  "author": "Flo <bocki@users.noreply.github.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "textr": "^0.3.0",
+    "unist-util-visit": "^2.0.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bocki/gatsby-remark-textr.git"
+  }
+}
